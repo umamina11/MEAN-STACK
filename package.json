@@ -1,0 +1,11 @@
+{
+  "name": "mean-agency",
+  "version": "1.0.0",
+  "description": "a service provider app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cristan",
+  "license": "ISC"
+}
